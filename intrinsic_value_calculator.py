@@ -1,7 +1,5 @@
 import urllib, sys
 import pandas as pd
-import matplotlib.pyplot as plt
-from datetime import datetime, date
 
 def main():
     #Get stock ticker and discount rate
